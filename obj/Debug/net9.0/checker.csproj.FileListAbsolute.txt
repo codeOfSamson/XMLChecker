@@ -1,0 +1,14 @@
+/Users/seamus/checker/bin/Debug/net9.0/checker
+/Users/seamus/checker/bin/Debug/net9.0/checker.deps.json
+/Users/seamus/checker/bin/Debug/net9.0/checker.runtimeconfig.json
+/Users/seamus/checker/bin/Debug/net9.0/checker.dll
+/Users/seamus/checker/bin/Debug/net9.0/checker.pdb
+/Users/seamus/checker/obj/Debug/net9.0/checker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seamus/checker/obj/Debug/net9.0/checker.AssemblyInfoInputs.cache
+/Users/seamus/checker/obj/Debug/net9.0/checker.AssemblyInfo.cs
+/Users/seamus/checker/obj/Debug/net9.0/checker.csproj.CoreCompileInputs.cache
+/Users/seamus/checker/obj/Debug/net9.0/checker.dll
+/Users/seamus/checker/obj/Debug/net9.0/refint/checker.dll
+/Users/seamus/checker/obj/Debug/net9.0/checker.pdb
+/Users/seamus/checker/obj/Debug/net9.0/checker.genruntimeconfig.cache
+/Users/seamus/checker/obj/Debug/net9.0/ref/checker.dll
